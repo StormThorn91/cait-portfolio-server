@@ -4,6 +4,7 @@ const app = express();
 const port = process.env.PORT || 5500
 
 app.get('/projects', (req, res) => {
+    res.set('Access-Control-Allow-Origin', '*');
     res.send(db.projects);
 });
 
@@ -12,6 +13,7 @@ app.get('/projects/:id', (req, res) => {
     if(!project) {
         res.status(404).send(`Project with id = ${req.params.id} is not found`)
     }
+    res.set('Access-Control-Allow-Origin', '*');
     res.status(200).send(project);
 });
 
