@@ -4,7 +4,7 @@
         "id": 1,
         "title": "Baybay-it Mobile Web",
         "content": "A Baybayin Character Recognizer Web App made in Flask (Python) and HTML, CSS and Vanilla JS",
-        "media": "https://youtu.be/uuH07J-tZCw",
+        "url": "https://youtu.be/uuH07J-tZCw",
         "image": "text.png"
         
       },
@@ -12,14 +12,14 @@
         "id": 2,
         "title": "CaitFlix",
         "content": "A movie recommender app made with ReactJS",
-        "url": "text.png",
+        "url": "https://cait-flix.vercel.app/",
         "image": "text.png"
       },
       {
         "id": 3,
         "title": "CaitNote",
         "content": "A simple note managing app created with React and Redux",
-        "media": "https://youtu.be/86jYxEwX9cU",
+        "url": "https://youtu.be/86jYxEwX9cU",
         "image": "text.png"
       }
     ]
