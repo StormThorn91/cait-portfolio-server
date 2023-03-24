@@ -2,7 +2,7 @@
     "projects": [
       {
         "id": 1,
-        "title": "Baybay-it Mobile Web",
+        "title": "Baybay-it Web",
         "content": "A Baybayin Character Recognizer Web App made in Flask (Python) and HTML, CSS and Vanilla JS",
         "url": "https://youtu.be/uuH07J-tZCw",
         "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/BaybayItWeb_sc.png?raw=true"
