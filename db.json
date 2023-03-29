@@ -2,6 +2,14 @@
     "projects": [
       {
         "id": 1,
+        "title": "Baybay-it",
+        "content": "A Baybayin Character Modular Learning Android App",
+        "url": "https://drive.google.com/file/d/1_Ja-libMoZF8AHzUMDnxHXGQ7DefJ-qX/view?usp=sharing",
+        "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/BaybayItWeb_sc.png?raw=true"
+        
+      },
+      {
+        "id": 2,
         "title": "Baybay-it Web",
         "content": "A Baybayin Character Recognizer Web App made in Flask (Python) and HTML, CSS and Vanilla JS",
         "url": "https://youtu.be/uuH07J-tZCw",
@@ -9,14 +17,14 @@
         
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "CaitFlix",
         "content": "A movie recommender app made with ReactJS",
         "url": "https://cait-flix.vercel.app/",
         "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/CaitFlix_sc.png?raw=true"
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "CaitNote",
         "content": "A simple note managing app created with React and Redux",
         "url": "https://youtu.be/86jYxEwX9cU",
