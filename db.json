@@ -28,7 +28,7 @@
         "title": "CaitNote",
         "content": "A simple note managing app created with React and Redux",
         "media": "https://youtu.be/86jYxEwX9cU",
-        "image": "texthttps://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/CaitNote_sc.png?raw=true"
+        "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/CaitNote_sc.png?raw=true"
       }
     ]
   }
