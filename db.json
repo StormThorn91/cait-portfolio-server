@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": "Baybay-it",
-        "content": "A Baybayin Character Modular Learning Android App",
+        "content": "A Baybayin Character Modular Learning Android App with the use of a fine-tuned MobileNet Architecture",
         "url": "https://drive.google.com/file/d/1_Ja-libMoZF8AHzUMDnxHXGQ7DefJ-qX/view?usp=sharing",
         "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/BaybayIt_sc.png?raw=true"
         
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "title": "Baybay-it Web",
-        "content": "A Baybayin Character Recognizer Web App made in Flask (Python) and HTML, CSS and Vanilla JS",
+        "content": "A web version of the Baybay-it app made in Flask (Python) and HTML, CSS and Vanilla JS",
         "url": "https://youtu.be/uuH07J-tZCw",
         "image": "https://github.com/StormThorn91/cait-portfolio-server/blob/main/public/images/BaybayItWeb_sc.png?raw=true"
         
